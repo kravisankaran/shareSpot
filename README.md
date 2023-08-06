@@ -1,0 +1,2 @@
+# shareSpot
+Sharing Spotify playlists
