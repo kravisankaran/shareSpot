@@ -1,2 +1,2 @@
 # shareSpot
-Sharing Spotify playlists
+A springboot application for sharing playlists. 
